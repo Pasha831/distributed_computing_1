@@ -1,0 +1,17 @@
+# ninja log v5
+62	102	1729616483987465994	PeplinLabs	2e8181cbc12982
+3	70	1729614372820851953	CMakeFiles/PeplinLabs.dir/mandelbrot.cpp.o	633bc4b8712f14af
+2	32	1729614385266876705	CMakeFiles/PeplinLabs.dir/monte_carlo.cpp.o	6e0b20f8f2d7ed4c
+2	33	1729616155757120938	CMakeFiles/PeplinLabs.dir/pth_ll_rwl.cpp.o	2d6564740eb33ef5
+4	85	1729614372835963526	CMakeFiles/PeplinLabs.dir/my_rand.cpp.o	365f9b05c7cb9efa
+4	71	1729614372820844536	CMakeFiles/PeplinLabs.dir/second_task.cpp.o	bc85f1ab90b7df23
+0	62	1729616483947149725	CMakeFiles/PeplinLabs.dir/pth_ll_rwl_readers.cpp.o	8551c40f8a144d83
+3	33	1729616155757121104	CMakeFiles/PeplinLabs.dir/pth_ll_rwl_writers.cpp.o	4c32d816304815a4
+0	123	1729616765542229126	CMakeFiles/PeplinLabs.dir/pth_ll_rwl.cpp.o	2d6564740eb33ef5
+124	232	1729616765652157946	PeplinLabs	de835070def9c6bb
+0	63	1729616808576507837	CMakeFiles/PeplinLabs.dir/pth_ll_rwl.cpp.o	2d6564740eb33ef5
+63	105	1729616808618799357	PeplinLabs	de835070def9c6bb
+1	62	1729616849307306373	CMakeFiles/PeplinLabs.dir/pth_ll_rwl.cpp.o	2d6564740eb33ef5
+62	108	1729616849352918908	PeplinLabs	de835070def9c6bb
+0	61	1729616871929498580	CMakeFiles/PeplinLabs.dir/pth_ll_rwl.cpp.o	2d6564740eb33ef5
+61	102	1729616871970778513	PeplinLabs	de835070def9c6bb
